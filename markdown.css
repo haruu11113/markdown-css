@@ -6,6 +6,8 @@ body {
     --text-title-color: #222;
     /* --text-body-color */
     --text-body-color-light: #787c7b;
+
+    --dark-green: #0d1510;
 }
 a {
     color: #0645ad;
@@ -54,7 +56,8 @@ a::selection {
 }
 
 p {
-    margin: 1em 0;
+    font-family: "游ゴシック体", YuGothic, "YuGothic M", sans-serif;
+    line-height: 1.75;
 }
 
 img {
@@ -69,9 +72,8 @@ h5,
 h6 {
     font-weight: bold;
     color: var(--text-title-color);
-    line-height: 1em;
+    line-height: 1.75;
 }
-
 
 h1 {
     font-size: 36px;
@@ -90,17 +92,17 @@ h4 {
 }
 
 h5 {
-    font-size: 21px;
+    font-size: 22px;
 }
 
 h6 {
-    font-size: 16px;
+    font-size: 18px;
 }
 
 blockquote {
     color: #666666;
     margin: 0;
-    padding-left: 3em;
+    padding-left
     border-left: 0.5em #eee solid;
 }
 
@@ -117,17 +119,20 @@ pre,
 code,
 kbd,
 samp {
-    color: #000;
     font-family: monospace, monospace;
     _font-family: 'courier new', monospace;
-    font-size: 0.98em;
+    /* font-size: 0.98em; */
+    color: #fff;
 }
 
 pre {
     white-space: pre;
     white-space: pre-wrap;
+    background-color: var(--dark-green);
     word-wrap: break-word;
+    padding: 10px 20px;
 }
+
 
 b,
 strong {
@@ -214,6 +219,6 @@ Mac: "游ゴシック体", "YuGothic"
    */
 }
 
-p {
-    font-family: "游ゴシック体", YuGothic, "YuGothic M", sans-serif;
-}
+/* p { */
+/*     font-family: "游ゴシック体", YuGothic, "YuGothic M", sans-serif; */
+/* } */
