@@ -14,8 +14,8 @@
 - [markdown-styles](http://mixu.net/markdown-styles/)
 - [darkdowncss](https://github.com/yrgoldteeth/darkdowncss)
 - [vscode-markdown-css](https://github.com/yuru7/vscode-markdown-css)
-- [markdown-css-themes](https://github.com/ashokgelal/markdown-css-themes)
-
+- [markdown-css-themes (1)](https://github.com/ashokgelal/markdown-css-themes)
+- [markd-wn-css-themes (2)](https://github.com/jasonm23/markdown-css-themes)
 ## LICENSE
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
