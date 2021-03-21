@@ -10,4 +10,5 @@
 
 ## LICENSE
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
 [LICENSE](https://github.com/haruu11113/markdown-css/blob/main/LICENSE)
