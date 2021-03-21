@@ -1,0 +1,21 @@
+[submodule "demos/submodules/github-markdown-css"]
+	path = demos/submodules/github-markdown-css
+	url = git@github.com:sindresorhus/github-markdown-css.git
+[submodule "demos/submodules/Markdown-CSS"]
+	path = demos/submodules/Markdown-CSS
+	url = git@github.com:simonlc/Markdown-CSS.git
+[submodule "demos/submodules/markdown-styles"]
+	path = demos/submodules/markdown-styles
+	url = git@github.com:mixu/markdown-styles.git
+[submodule "demos/submodules/darkdowncss"]
+	path = demos/submodules/darkdowncss
+	url = git@github.com:yrgoldteeth/darkdowncss.git
+[submodule "demos/submodules/vscode-markdown-css"]
+	path = demos/submodules/vscode-markdown-css
+	url = git@github.com:yuru7/vscode-markdown-css.git
+[submodule "demos/submodules/markdown-css-themes-1"]
+	path = demos/submodules/markdown-css-themes-1
+	url = git@github.com:ashokgelal/markdown-css-themes.git
+[submodule "demos/submodules/markdown-css-themes-2"]
+	path = demos/submodules/markdown-css-themes-2
+	url = git@github.com:jasonm23/markdown-css-themes.git
