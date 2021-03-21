@@ -10,6 +10,11 @@
 
 ## markdown css
 - [github-markdown-css](https://github.com/sindresorhus/github-markdown-css)
+- [Markdown-CSS](https://github.com/simonlc/Markdown-CSS)
+- [markdown-styles](http://mixu.net/markdown-styles/)
+- [darkdowncss](https://github.com/yrgoldteeth/darkdowncss)
+- [vscode-markdown-css](https://github.com/yuru7/vscode-markdown-css)
+- [markdown-css-themes](https://github.com/ashokgelal/markdown-css-themes)
 
 ## LICENSE
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
