@@ -25,6 +25,7 @@ markdownで使えそうな良さげなcssをまとめます。
 
 (note)
 - [JavaScript - Markdownパーサーのshowdown.js、markdown-js、markedを簡単比較](https://kannokanno.hatenablog.com/entry/2013/06/19/132042)
+- [Markdownのリアルタイムプレビュー、見やすくしたくない？](https://rui-log.com/vscode-markdown-preview-custom/)
 
 ## markdown editor
 
